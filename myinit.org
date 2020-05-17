@@ -125,8 +125,6 @@
     :init
     (global-flycheck-mode t))
    #+END_SRC
-
-#+RESULTS:
 * Misc
    #+BEGIN_SRC emacs-lisp
      (global-hl-line-mode t)
